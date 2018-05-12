@@ -1,5 +1,8 @@
 _repo: The-Coral-Island--A-Tale-of-the-Pacific-Ocean_7124
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ballantyne, R. M. (Robert Michael)
@@ -12,6 +15,8 @@ creator:
 description: Three English boys, shipwrecked on a deserted island, create an idyllic
   society despite typhoons, wild hogs, and hostile visitors. Then evil pirates kidnap
   one of the youths whose adventures continue among the South Sea Islands.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7124#The-Coral-Island--A-Tale-of-the-Pacific-Ocean
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
